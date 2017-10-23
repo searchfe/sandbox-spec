@@ -22,7 +22,7 @@
 * 文件名与类名保持一致，例如 `HTMLElement.md`。
 * 所有对其他类的引用都给出文档链接，可以引用 MDN 文档。
 
-在 [/spec/demo](https://github.com/searchfe/sandbox-spec/blob/master/spec/demo.md)
+在 [/api/demo](https://github.com/searchfe/sandbox-spec/blob/master/api/demo.md)
 
 ## API 文档内容约定
 
